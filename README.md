@@ -1,2 +1,4 @@
 # Shortest-Distance-of-Metro
 Finding shortest distance between stations using Dijkstra algorithm in C++
+The "Shortest Metro Route Finder Project in C" is a software application designed to help users navigate through a metro or subway system by identifying and providing the shortest route between two specified stations. This project aims to simplify the process of finding the quickest way to travel within a metro network, making it particularly useful for commuters and tourists. It involves the implementation of data structures and algorithms to calculate and display the most efficient route and a user-friendly interface to interact with the system. The primary goal of this project is to enhance the convenience and efficiency of metro travel for users.
+![image](https://github.com/VijayMakkad/Shortest-Distance-of-Metro/assets/113830893/68dc448f-efa0-413b-98d9-0e24a54718bf)
